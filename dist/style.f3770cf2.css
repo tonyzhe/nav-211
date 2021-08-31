@@ -30,13 +30,13 @@ img {
 }
 /*style*/
 body {
-  background-image: url(合照.455eb709.jpg);
+  background-image: url(合照.413b2874.jpg);
   background-repeat: no-repeat;
   background-position-x: center;
 }
 @media (max-width: 500px) {
   body {
-    background-image: url(合照.455eb709.jpg);
+    background-image: url(合照.413b2874.jpg);
     background-repeat: no-repeat;
     background-position-y: center;
   }

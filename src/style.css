@@ -30,7 +30,16 @@ img {
 }
 /*style*/
 body {
-  background: #eee;
+  background-image: url(./images/合照.jpg);
+  background-repeat: no-repeat;
+  background-position-x: center;
+}
+@media (max-width: 500px) {
+  body {
+    background-image: url(./images/合照.jpg);
+    background-repeat: no-repeat;
+    background-position-y: center;
+  }
 }
 .globalHeader {
   /* border: 1px solid red; */
